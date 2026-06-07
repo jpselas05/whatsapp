@@ -14,20 +14,12 @@ alterar os exemplos sem depender de entrada pelo teclado.
 
 ```text
 QuestoesPraticas/
-  01-Recursividade/
-  02-Listas/
-  03-Pilhas/
-  04-Filas/
-  05-FilasPrioridade/
   06-Hash/
   07-Arvores/
 ```
 
 Os prefixos numéricos indicam a relação com a sequência de conteúdos da
-disciplina. As pastas `01-Recursividade/`, `02-Listas/`, `03-Pilhas/`,
-`04-Filas/` e `05-FilasPrioridade/` estão reservadas para questionários futuros.
-Neste momento, os questionários implementados estão em Hash e Árvores,
-correspondentes às unidades de estruturas dispersas e estruturas hierárquicas.
+disciplina.
 
 1. `06-Hash/`
 

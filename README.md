@@ -13,56 +13,16 @@ analisadas em aula, depuradas e modificadas pelos alunos.
 ## Organização Geral
 
 ```text
-Unidade1/
-Unidade2/
-  P01Listas/
-  P02Pilhas/
-  P03Filas/
-  P04FilasPrioridade/
 Unidade3/
 Unidade4/
+QuestoesPraticas/
+  06-Hash/
+  07-Arvores/
 ```
 
-Cada unidade possui um README próprio com a ordem sugerida de estudo. As pastas
-da Unidade 2 também possuem READMEs específicos, porque essa unidade concentra
-muitas estruturas lineares.
+Cada unidade possui um README próprio com a ordem sugerida de estudo.
 
 ## Conteúdo da Disciplina
-
-### Unidade I - Técnicas de programação para implementação de estruturas de dados
-
-Descrever as técnicas de programação usadas na implementação de estruturas de
-dados.
-
-Implementar algoritmos com uso de técnicas de programação.
-
-Valorar o emprego das técnicas de programação na construção de estruturas de
-dados.
-
-Conteúdo:
-
-1. 01.01 - Recursividade.
-2. 01.02 - Tipos abstratos de dados.
-3. 01.03 - Referências e alias.
-4. 01.04 - Alocação de memória: estática e dinâmica.
-
-### Unidade II - Estruturas de dados lineares
-
-Diferenciar as estruturas de dados e suas complexidades na resolução de
-problemas computacionais.
-
-Implementar algoritmos com estruturas de dados e linguagens de programação.
-
-Ser crítico no uso de estruturas de dados para resolução de problemas
-computacionais.
-
-Conteúdo:
-
-1. 02.01 - Listas: estática e dinâmica (simplesmente encadeada, duplamente
-   encadeada, não ordenada, ordenada e circulares).
-2. 02.02 - Pilhas: estática e dinâmica.
-3. 02.03 - Filas: estática e dinâmica.
-4. 02.04 - Filas de prioridade: não ordenada, ordenada e heap.
 
 ### Unidade III - Estruturas de dados dispersas
 
